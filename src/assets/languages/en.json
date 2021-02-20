@@ -1,0 +1,15 @@
+{
+  "headNav": {
+    "home": "Home",
+    "downloads": "Downloads"
+  },
+  "sideNav": {
+    "devices": "Devices"
+  },
+  "DBody": {
+    "os_name": "exTHmUI",
+    "codename": "Device Codename",
+    "buildDate": "BuildDate",
+    "clicktoview": "Click to view"
+  }
+}

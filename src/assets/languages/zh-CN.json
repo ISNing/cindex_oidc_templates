@@ -1,0 +1,15 @@
+{
+  "headNav": {
+    "home": "主页",
+    "downloads": "下载"
+  },
+  "sideNav": {
+    "devices": "设备"
+  },
+  "DBody": {
+    "os_name": "exTHmUI",
+    "codename": "设备代号",
+    "buildDate": "构建时间",
+    "clicktoview": "点击查看"
+  }
+}
